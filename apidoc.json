@@ -1,0 +1,14 @@
+{
+  "name": "OpenAPI",
+  "version": "0.0.1",
+  "description": "개발자 api.",
+  "title": "OpenApi",
+  "url" : "{도메인}",
+  "template.forceLanguage": "en",
+  "template": {
+  	"withCompare": true
+  },
+  "order": [
+    "Order Api"
+  ]
+}
